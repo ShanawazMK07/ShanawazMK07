@@ -20,8 +20,8 @@
   <a href="https://dev.to/shahanwaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahanwaz" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/shahanwazz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahanwazz" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/shahanwazz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahanwaz khuddunnavar" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sha__na_waz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sha__na_waz" height="30" width="40" />
