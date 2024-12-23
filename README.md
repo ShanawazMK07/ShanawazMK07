@@ -26,6 +26,7 @@
   <a href="https://instagram.com/sha__na_waz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sha__na_waz" height="30" width="40" />
   </a>
+  <a href="https://twitter.com/shanawaz__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanawaz__07" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
